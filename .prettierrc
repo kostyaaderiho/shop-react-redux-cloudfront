@@ -1,0 +1,14 @@
+{
+  "tabWidth": 2,
+  "singleQuote": false,
+  "jsxSingleQuote": false,
+  "arrowParens": "avoid",
+  "overrides": [
+    {
+      "files": "*.{ts,tsx}",
+      "options": {
+        "arrowParens": "always"
+      }
+    }
+  ]
+}
