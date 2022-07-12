@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Task 2
 
 CloudFront - https://d3ra768k9zp1jr.cloudfront.net
-S3 - https://js-shop-react-redux-cloudfront.s3.amazonaws.com/index.html
+S3 - http://js-shop-react-redux-cloudfront.s3-website-us-east-1.amazonaws.com
 
 ## Available Scripts
 
