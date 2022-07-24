@@ -3,8 +3,8 @@ import * as Yup from 'yup';
 export type Product = {
   id: string;
   title: string;
-  image: string;
   price: number;
+  counter: number;
   description: string;
 };
 
